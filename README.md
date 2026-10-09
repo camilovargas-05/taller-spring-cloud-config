@@ -75,4 +75,6 @@ En el artículo, el servidor se configura con `server.port=8080` pero el cliente
 
 ## Documentación
 
+Repositorio: <https://github.com/camilovargas-05/taller-spring-cloud-config>
+
 El informe completo, con la explicación de cada paso y las capturas, está en [`docs/Informe_Taller_Spring_Cloud_Config.pdf`](docs/Informe_Taller_Spring_Cloud_Config.pdf).
